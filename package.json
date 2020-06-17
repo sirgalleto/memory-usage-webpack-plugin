@@ -1,0 +1,15 @@
+{
+  "name": "memory-usage-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Plugin for generating insightful data about your Webpack runtime memory consumption",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test "
+  },
+  "author": "Sebastián Osorio <svzosorio@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "heapdump": "^0.3.15"
+  }
+}
