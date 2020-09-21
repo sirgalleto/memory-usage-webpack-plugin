@@ -1,5 +1,7 @@
 # memory-usage-webpack-plugin
 
+_Work in progress_
+
 Plugin for generating insightful data about your Webpack runtime memory consumption.
 
 The plugin watches for a rss memory consumption over a threshold, and when the memory is greater logs a `.heapsnapshot` that can be loaded in the chrome developer tools or [heapviz.com](https://heapviz.com/)
